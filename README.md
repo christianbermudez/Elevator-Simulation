@@ -4,6 +4,7 @@ Elevator Simulation is a command-line simulation of a simple elevator system bui
 ## Code
 ```
 # Elevator Simulation
+
 import random
 import time
 
